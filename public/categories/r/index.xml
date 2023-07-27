@@ -1,18 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>R on Jacob Hoang&#39;s Personal Website</title>
-    <link>https://username.github.io/categories/r/</link>
-    <description>Recent content in R on Jacob Hoang&#39;s Personal Website</description>
+    <title>R on Jacob Hoang</title>
+    <link>https://jacobhoang.netlify.app/categories/r/</link>
+    <description>Recent content in R on Jacob Hoang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 01 Dec 2020 21:13:14 -0500</lastBuildDate><atom:link href="https://username.github.io/categories/r/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 25 Jul 2023 21:13:14 -0500</lastBuildDate><atom:link href="https://jacobhoang.netlify.app/categories/r/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Me</title>
+      <link>https://jacobhoang.netlify.app/page/about/</link>
+      <pubDate>Tue, 25 Jul 2023 21:13:14 -0500</pubDate>
+      
+      <guid>https://jacobhoang.netlify.app/page/about/</guid>
+      <description>Professional Summary I am a results-oriented process engineering and project management professional turned data scientist with over 10 years of experience who is skilled in statistical techniques, continuous improvement, big data analytics, and New Product Introduction/Transfer (NPI) in a high-volume manufacturing environment. I have a proven track record of contributing to complex objectives and building effective teams where I was known for strong leadership, consensus building, personal growth, and accountability. At Illumina, I played a critical role in 6 platform launches.</description>
+    </item>
+    
     <item>
       <title>Hello R Markdown</title>
-      <link>https://username.github.io/post/2020-12-01-r-rmarkdown/</link>
+      <link>https://jacobhoang.netlify.app/post/2020-12-01-r-rmarkdown/</link>
       <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
       
-      <guid>https://username.github.io/post/2020-12-01-r-rmarkdown/</guid>
+      <guid>https://jacobhoang.netlify.app/post/2020-12-01-r-rmarkdown/</guid>
       <description>R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
 You can embed an R code chunk like this:
 summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
