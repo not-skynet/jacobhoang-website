@@ -6,31 +6,49 @@
     <description>Recent content in Tags on Jacob Hoang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 01 Dec 2020 21:13:14 -0500</lastBuildDate><atom:link href="https://jacobhoang.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 27 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://jacobhoang.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>plot</title>
-      <link>https://jacobhoang.netlify.app/tags/plot/</link>
-      <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
+      <title>CV</title>
+      <link>https://jacobhoang.netlify.app/tags/cv/</link>
+      <pubDate>Thu, 27 Jul 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://jacobhoang.netlify.app/tags/plot/</guid>
+      <guid>https://jacobhoang.netlify.app/tags/cv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R</title>
+      <link>https://jacobhoang.netlify.app/tags/r/</link>
+      <pubDate>Thu, 27 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://jacobhoang.netlify.app/tags/r/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R Markdown</title>
       <link>https://jacobhoang.netlify.app/tags/r-markdown/</link>
-      <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
+      <pubDate>Thu, 27 Jul 2023 00:00:00 +0000</pubDate>
       
       <guid>https://jacobhoang.netlify.app/tags/r-markdown/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>regression</title>
-      <link>https://jacobhoang.netlify.app/tags/regression/</link>
-      <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
+      <title>resume</title>
+      <link>https://jacobhoang.netlify.app/tags/resume/</link>
+      <pubDate>Thu, 27 Jul 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://jacobhoang.netlify.app/tags/regression/</guid>
+      <guid>https://jacobhoang.netlify.app/tags/resume/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pdf</title>
+      <link>https://jacobhoang.netlify.app/tags/pdf/</link>
+      <pubDate>Thu, 20 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://jacobhoang.netlify.app/tags/pdf/</guid>
       <description></description>
     </item>
     

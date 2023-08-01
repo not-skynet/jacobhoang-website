@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>resume on Jacob Hoang</title>
+    <link>https://jacobhoang.netlify.app/tags/resume/</link>
+    <description>Recent content in resume on Jacob Hoang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 27 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://jacobhoang.netlify.app/tags/resume/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Building a Resume Using R Markdown</title>
+      <link>https://jacobhoang.netlify.app/post/2023-07-27-building-a-resume-cv-using-r-markdown/</link>
+      <pubDate>Thu, 27 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://jacobhoang.netlify.app/post/2023-07-27-building-a-resume-cv-using-r-markdown/</guid>
+      <description>Background While I&amp;rsquo;ll likely continue to use word to build my resume, I wanted to take a stab at building a resume while leveraging R Markdowns. There are plenty of blog posts available when searching Google for &amp;lsquo;make a resume in r&amp;rsquo; so I thought it would be a fun challenge. Besides, there were some great ideas online about leveraging csv files in order to maintain the resume online that could be beneficial.</description>
+    </item>
+    
+    <item>
+      <title>Test Page</title>
+      <link>https://jacobhoang.netlify.app/post/2020-12-01-r-rmarkdown/</link>
+      <pubDate>Thu, 20 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://jacobhoang.netlify.app/post/2020-12-01-r-rmarkdown/</guid>
+      <description>Background This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
+You can embed an R code chunk like this:
+summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
+    </item>
+    
+  </channel>
+</rss>

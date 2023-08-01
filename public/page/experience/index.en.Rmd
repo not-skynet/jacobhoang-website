@@ -1,0 +1,33 @@
+---
+title: Experience
+author: Jacob Hoang
+date: ''
+slug: []
+categories: []
+tags: []
+type: ''
+subtitle: ''
+image: ''
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(collapse = TRUE)
+```
+
+```{r, echo = FALSE, warning = FALSE}
+# Load needed packages
+library(googlesheets4)
+```
+
+# Work Experience
+
+```{r}
+work <- read_sheet("https://docs.google.com/spreadsheets/d/1t_w7s05T8gWM58rkpKM-5CpOavyWvLNd2EVaAtuuFnw/edit#gid=1517919500",
+                   sheetname = work)
+
+```
+
+test test test 
+
+# Education
+

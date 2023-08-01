@@ -8,6 +8,8 @@ categories: ["R"]
 
 
 
+![Headshot Picture of Jacob](/page/about_files/cropped-headshot.png)
+
 # Professional Summary
 
 I am a results-oriented process engineering and project management professional turned data scientist with over 10 years of experience who is skilled in statistical techniques, continuous improvement, big data analytics, and New Product Introduction/Transfer (NPI) in a high-volume manufacturing environment. I have a proven track record of contributing to complex objectives and building effective teams where I was known for strong leadership, consensus building, personal growth, and accountability. At Illumina, I played a critical role in 6 platform launches.

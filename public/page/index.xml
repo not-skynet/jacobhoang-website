@@ -13,7 +13,17 @@
       <pubDate>Tue, 25 Jul 2023 21:13:14 -0500</pubDate>
       
       <guid>https://jacobhoang.netlify.app/page/about/</guid>
-      <description>Professional Summary I am a results-oriented process engineering and project management professional turned data scientist with over 10 years of experience who is skilled in statistical techniques, continuous improvement, big data analytics, and New Product Introduction/Transfer (NPI) in a high-volume manufacturing environment. I have a proven track record of contributing to complex objectives and building effective teams where I was known for strong leadership, consensus building, personal growth, and accountability. At Illumina, I played a critical role in 6 platform launches.</description>
+      <description>Professional Summary I am a results-oriented process engineering and project management professional turned data scientist with over 10 years of experience who is skilled in statistical techniques, continuous improvement, big data analytics, and New Product Introduction/Transfer (NPI) in a high-volume manufacturing environment. I have a proven track record of contributing to complex objectives and building effective teams where I was known for strong leadership, consensus building, personal growth, and accountability.</description>
+    </item>
+    
+    <item>
+      <title>Experience</title>
+      <link>https://jacobhoang.netlify.app/page/experience/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jacobhoang.netlify.app/page/experience/</guid>
+      <description># Load needed packages library(googlesheets4) ## Warning: package &amp;#39;googlesheets4&amp;#39; was built under R version 4.2.3 Work Experience test test test
+Education </description>
     </item>
     
   </channel>
